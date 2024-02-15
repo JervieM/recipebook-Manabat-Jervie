@@ -9,4 +9,4 @@ urlpatterns = [
 ]
 
 
-app_name = 'ledger'
+app_name = 'ledger' 
